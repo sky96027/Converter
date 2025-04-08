@@ -1,0 +1,11 @@
+Hangul -> LaTex
+
+LEFT SIN x RIGHT PLUS LEFT COS y RIGHT MINUS TAN z TIMES LOG 2 DIV SQRT 4 POWER 3 EQUAL BINOM {5} {2} GE {1} LESS {9} NE {0} PLUS FRAC {3} {8} PLUS GREATER {7} LE {8}
+LEFT ( SIN x PLUS COS y ) RIGHT TIMES LEFT ( TAN z MINUS LOG 2 ) RIGHT EQUAL FRAC { BINOM {3} {1} } { SQRT {4} } GE {5} PLUS MINUS DIV POWER GREATER LESS NE LE
+LOG ( 100 ) PLUS SIN ( 30 ) TIMES COS ( 60 ) MINUS TAN ( 45 ) EQUAL FRAC { 1 } { BINOM {5} {2} }
+
+LaTex -> Hangul
+
+\left \sin x \right + \left \cos y \right - \tan z \times \log 2 \div \sqrt{4}^{3} = \binom{5}{2} \geq {1} < {9} \neq {0} + \frac{3}{8} + > {7} \leq {8}
+\left( \sin x + \cos y \right) \times \left( \tan z - \log 2 \right) = \frac{ \binom{3}{1} }{ \sqrt{4} } \geq {5} + - \div ^ > < \neq \leq
+\log(100) + \sin(30) \times \cos(60) - \tan(45) = \frac{1}{\binom{5}{2}}
