@@ -115,5 +115,5 @@
 
 ## 노션 Report Link
 - 과제 개요, 해결 방안, 시행착오 설명 포함
-- https://hot-track-f23.notion.site/1cf13a3e1bfc80be9e7ae45db8bc294e
+- [https://hot-track-f23.notion.site/1cf13a3e1bfc80be9e7ae45db8bc294e](https://hot-track-f23.notion.site/LaTeX-AST-1cf13a3e1bfc80be9e7ae45db8bc294e)
 ---
